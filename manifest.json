@@ -1,0 +1,17 @@
+{
+  "git_revision": "7c5043bccd21c03129de19d48b62987fbb2df51b",
+  "artifacts": {
+    "installer": {
+      "filename": "ncTiledViewer-2026.05.r1-7c5043b-Win64-VS2022.exe",
+      "size": 2777004,
+      "timestamp": "2026-06-09T01:17:06Z",
+      "sha256": "2865e1d7f25761e8f222e8874d41b3172ca2c9ee9230cbf75a6c1671dd6883d0"
+    },
+    "portable": {
+      "filename": "ncTiledViewer-2026.05.r1-7c5043b-Win64-VS2022.zip",
+      "size": 3369708,
+      "timestamp": "2026-06-09T01:17:06Z",
+      "sha256": "0b3e4d4e177fad6e4bc3367d8d9a32f7a20587aaf9f54a8976f37d0fb2f73cba"
+    }
+  }
+}
